@@ -22,6 +22,7 @@ API REST desarrollada con Spring Boot para la gestión de usuarios utilizando JP
 * Spring Data JPA
 * MySQL
 * Maven
+* Postman
 
 ---
 
